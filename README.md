@@ -39,8 +39,8 @@ ii.	Quality Assurance Engineer: Tests software for defects and ensures quality s
 iii.	Project Manager: Oversees the entire software development process, manages resources, and ensures project timelines and budgets are met.  
 
 ## Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
-i.	Integrated Development Environments (IDEs): provide developers with tools like code editors, debuggers, and compilers. This makes it easier to write, test, and debug code. Example include Visual Studio Code
-ii.	Version Control Systems (VCS): Allow developers to track changes in their code, collaborate on code with others, and manage different versions of the software. Example include GitHub and GitLab.
+i.	Integrated Development Environments (IDEs): provide developers with tools like code editors, debuggers, and compilers. This makes it easier to write, test, and debug code. Example include Visual Studio Code  
+ii.	Version Control Systems (VCS): Allow developers to track changes in their code, collaborate on code with others, and manage different versions of the software. Example include GitHub and GitLab.  
 
 
 ## What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.

@@ -17,13 +17,13 @@ iii.	Agile Methodologies (2000s): Agile methodologies, such as Scrum and Kanban,
 
 ## List and briefly explain the phases of the Software Development Life Cycle.
 
-i.	Planning: The initial phase of the SDLC, involves defining the software's purpose and scope, establishing a timeline, and determining a budget. 
-ii.	Requirement analysis: seeks to identify and record the precise requirements of the final users. Identify problems users face and come up with a plan to address them. 
-iii.	Design: Software architecture and system design are planned. This phase defines how the system will be structured and specifies the technical specifications. 
-iv.	Coding: Developers write the actual code based on the design. This phase involves creating the software components and translating design into executable programs. 
-v.	Testing: The software is tested for bugs, security vulnerabilities, and performance issues. This phase ensures the software meets the requirements runs smoothly. 
-vi.	Deployment: involves rolling out the tested and fine-tuned software to its end-users either in stages or all at once depending on the strategy. 
-vii.	Maintenance: After deployment, software may need updates, bug fixes, or new features to address issues or changing user needs. This phase ensures the long-term viability of the software.
+i.	Planning: The initial phase of the SDLC, involves defining the software's purpose and scope, establishing a timeline, and determining a budget.  
+ii.	Requirement analysis: seeks to identify and record the precise requirements of the final users. Identify problems users face and come up with a plan to address them.  
+iii.	Design: Software architecture and system design are planned. This phase defines how the system will be structured and specifies the technical specifications.   
+iv.	Coding: Developers write the actual code based on the design. This phase involves creating the software components and translating design into executable programs.   
+v.	Testing: The software is tested for bugs, security vulnerabilities, and performance issues. This phase ensures the software meets the requirements runs smoothly.   
+vi.	Deployment: involves rolling out the tested and fine-tuned software to its end-users either in stages or all at once depending on the strategy.  
+vii.	Maintenance: After deployment, software may need updates, bug fixes, or new features to address issues or changing user needs. This phase ensures the long-term viability of the software.  
 
 ## Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
@@ -34,9 +34,9 @@ Example: Building a consumer-facing mobile app where user feedback may drive cha
 
 ## Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
-i.	Software Developer: Writes, tests, and debugs code.
-ii.	Quality Assurance Engineer: Tests software for defects and ensures quality standards.
-iii.	Project Manager: Oversees the entire software development process, manages resources, and ensures project timelines and budgets are met.
+i.	Software Developer: Writes, tests, and debugs code.  
+ii.	Quality Assurance Engineer: Tests software for defects and ensures quality standards.  
+iii.	Project Manager: Oversees the entire software development process, manages resources, and ensures project timelines and budgets are met.  
 
 ## Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 i.	Integrated Development Environments (IDEs): provide developers with tools like code editors, debuggers, and compilers. This makes it easier to write, test, and debug code. Example include Visual Studio Code
@@ -44,16 +44,16 @@ ii.	Version Control Systems (VCS): Allow developers to track changes in their co
 
 
 ## What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
-i.	Debugging Complex Code: Finding and fixing bugs in large, complex systems can be time-consuming. Strategy: Use unit tests, automated testing, and code reviews to catch issues early.
-ii.	Dealing with Evolving Requirements: Changes in project scope or requirements can disrupt development. Strategy: Agile methodologies can help manage and incorporate changing requirements in an iterative manner.
-iii.	Maintaining Code Quality: As software projects grow, maintaining clean and manageable code becomes harder. Strategy: Enforce coding standards, use code linters, and conduct regular code reviews.
+i.	Debugging Complex Code: Finding and fixing bugs in large, complex systems can be time-consuming. Strategy: Use unit tests, automated testing, and code reviews to catch issues early.  
+ii.	Dealing with Evolving Requirements: Changes in project scope or requirements can disrupt development. Strategy: Agile methodologies can help manage and incorporate changing requirements in an iterative manner.  
+iii.	Maintaining Code Quality: As software projects grow, maintaining clean and manageable code becomes harder. Strategy: Enforce coding standards, use code linters, and conduct regular code reviews.  
 
 
 ## Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-i.	Unit Testing: Testing individual units of code.
-ii.	Integration Testing: Testing how different components interact.
-iii.	System Testing: Testing the entire system as a whole.
-iv.	Acceptance Testing: Testing the software against user requirements
+i.	Unit Testing: Testing individual units of code.  
+ii.	Integration Testing: Testing how different components interact.  
+iii.	System Testing: Testing the entire system as a whole.  
+iv.	Acceptance Testing: Testing the software against user requirements  
 
 
 # Part 2: Introduction to AI and Prompt Engineering
